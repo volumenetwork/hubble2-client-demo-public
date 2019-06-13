@@ -1,4 +1,5 @@
 # Hubble 2 Demo
+![Volume Network](https://www.volumenetwork.com/images/logo/white_256_w.png)
 
 This is the demo version for Hubble 2 CMS, made by [Volume Network](https://www.volumenetwork.com/).
 
