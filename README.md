@@ -7,8 +7,8 @@ Please feel free to tell us your impressions and questions to daniel.pascual@vol
 
 ## Download latest version
 
-- [Linux](https://github.com/volumenetwork/hubble2-client-demo-public/releases/latest/download/hubble2-client-0.5.5.x86_64.rpm)
+- [Linux](https://github.com/volumenetwork/hubble2-client-demo-public/releases/latest/download/hubble2-client-0.5.6.x86_64.rpm)
 
-- [MacOS](https://github.com/volumenetwork/hubble2-client-demo-public/releases/latest/download/hubble2-client-0.5.5.dmg)
+- [MacOS](https://github.com/volumenetwork/hubble2-client-demo-public/releases/latest/download/hubble2-client-0.5.6.dmg)
 
-- [Windows](https://github.com/volumenetwork/hubble2-client-demo-public/releases/latest/download/hubble2-client-setup-0.5.5.exe)
+- [Windows](https://github.com/volumenetwork/hubble2-client-demo-public/releases/latest/download/hubble2-client-setup-0.5.6.exe)
